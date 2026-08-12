@@ -1,5 +1,5 @@
 ---
-theme: '@calmecac/calmecac'
+theme: '@calmecac/slidev-theme-calmecac'
 title: CALMÉCAC - Propuesta Comercial para Creadores de Contenido
 headerTitle: CALMÉCAC
 tagline: PROPUESTA COMERCIAL & ALIANZAS

@@ -1,5 +1,5 @@
 ---
-theme: '@calmecac/calmecac'
+theme: '@calmecac/slidev-theme-calmecac'
 title: CALMÉCAC - Introducción al Sistema Operativo e Incubadora de Alto Rendimiento
 headerTitle: CALMÉCAC
 tagline: PRESENTACIÓN INSTITUCIONAL

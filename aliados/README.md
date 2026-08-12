@@ -1,6 +1,6 @@
-# 🚀 Presentación Intro — CALMÉCAC
+# 🤝 Presentación Aliados — CALMÉCAC
 
-Presentación de introducción institucional a **CALMÉCAC** basada en el contenido oficial de [calmecac.lat](https://calmecac.lat).
+Propuesta de colaboración institucional para Aliados Estratégicos y Comunidades de Emprendedores desarrollada por **CALMÉCAC**.
 
 Esta presentación está construida con [Slidev](https://sli.dev/) y utiliza el tema corporativo [`@calmecac/slidev-theme-calmecac`](https://github.com/Calmecac-MX/calmecac-theme).
 
@@ -8,7 +8,7 @@ Esta presentación está construida con [Slidev](https://sli.dev/) y utiliza el 
 
 ## 🚀 Comandos Disponibles
 
-En la carpeta `intro`, puedes ejecutar los siguientes comandos:
+En la carpeta `aliados`, puedes ejecutar los siguientes comandos:
 
 ### Desarrollo Local
 Inicia el servidor de desarrollo interactivo con recarga en vivo:
@@ -47,7 +47,7 @@ npm run screenshot
 ## 🛠️ Estructura del Proyecto
 
 - `slides.md`: Archivo principal con las diapositivas y el contenido Markdown.
-- `public/`: Assets estáticos y resultado del build de producción (generado tras `pnpm build`).
+- `public/`: Assets estáticos y resultado del build de producción.
 - `package.json`: Dependencias e historias de comandos.
 - `vercel.json`: Configuración de despliegue en Vercel.
 

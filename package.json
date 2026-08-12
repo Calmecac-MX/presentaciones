@@ -7,6 +7,7 @@
     "dev:aliados": "pnpm --filter aliados-calmecac dev",
     "dev:creadores": "pnpm --filter creadores-calmecac dev",
     "dev:intro": "pnpm --filter intro-calmecac dev",
+    "build": "node scripts/build-all.js",
     "build:aliados": "pnpm --filter aliados-calmecac build",
     "build:creadores": "pnpm --filter creadores-calmecac build",
     "build:intro": "pnpm --filter intro-calmecac build"

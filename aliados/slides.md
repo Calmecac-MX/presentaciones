@@ -1,5 +1,5 @@
 ---
-theme: '@calmecac/calmecac'
+theme: '@calmecac/slidev-theme-calmecac'
 title: CALMÉCAC - Propuesta de Colaboración Institucional
 headerTitle: CALMÉCAC
 tagline: PROPUESTA DE COLABORACIÓN INSTITUCIONAL

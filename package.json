@@ -1,0 +1,14 @@
+{
+  "name": "presentaciones",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Repositorio unificado de presentaciones de CALMÉCAC (Aliados, Creadores, Intro)",
+  "scripts": {
+    "dev:aliados": "pnpm --filter aliados-calmecac dev",
+    "dev:creadores": "pnpm --filter creadores-calmecac dev",
+    "dev:intro": "pnpm --filter intro-calmecac dev",
+    "build:aliados": "pnpm --filter aliados-calmecac build",
+    "build:creadores": "pnpm --filter creadores-calmecac build",
+    "build:intro": "pnpm --filter intro-calmecac build"
+  }
+}

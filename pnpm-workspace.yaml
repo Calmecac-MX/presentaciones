@@ -1,0 +1,7 @@
+packages:
+  - 'aliados'
+  - 'creadores'
+  - 'intro'
+  - 'theme'
+
+shamefullyHoist: true
